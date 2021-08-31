@@ -1,0 +1,2 @@
+# fastcode
+fast code
